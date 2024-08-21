@@ -2,19 +2,6 @@
 
 ## Project Architecture
 
-src
-└── main
-    └── java
-        └── com
-            └── markersharks
-                └── suppliersearch
-                    ├── controller
-                    ├── service
-                    ├── repository
-                    └── model
-└── resources
-    └── application.properties
-
 ![IDE7](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE7.jpg)
 
 
