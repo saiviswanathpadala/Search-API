@@ -17,7 +17,7 @@ src
 
 ## Project SnapShots
 
-![IDE0](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE0.jpg)
+![IDE7](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE7.jpg)
 
 ![IDE1](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE1.jpg)
 
