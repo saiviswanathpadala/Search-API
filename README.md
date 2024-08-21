@@ -34,7 +34,7 @@ src
 
 ![IDE6](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE6.jpg)
 
-## Run the Application
-#**Run the Spring Boot application.**
-#**Open the H2 console at http://localhost:8080/h2-console and check the in-memory database.**
-#**Test the API using Postman**
+# Run the Application
+**Run the Spring Boot application.**
+**Open the H2 console at http://localhost:8080/h2-console and check the in-memory database.**
+**Test the API using Postman**
