@@ -11,13 +11,13 @@
 ### In the resources directory, open application.properties and configure the H2 database
 ![IDE0](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE0.jpg)
 
+### Open your IDE and navigate to the main class "SupplierSearchApplication" (located in the com.markersharks.suppliersearch package).
 ![IDE1](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE1.jpg)
 
-### Open your IDE and navigate to the main class "SupplierSearchApplication" (located in the com.markersharks.suppliersearch package).
 ### Right-click on the main class and select Run or click the green run button in your IDE.
+### Once the application is running, you should see the following in the console output
 ![IDE2](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE2.jpg)
 
-### Once the application is running, you should see the following in the console output
 ### This means your Spring Boot application is running on http://localhost:8080
 ![IDE3](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE3.jpg)
 
