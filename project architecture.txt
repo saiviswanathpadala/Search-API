@@ -1,0 +1,12 @@
+src
+└── main
+    └── java
+        └── com
+            └── markersharks
+                └── suppliersearch
+                    ├── controller
+                    ├── service
+                    ├── repository
+                    └── model
+└── resources
+    └── application.properties
