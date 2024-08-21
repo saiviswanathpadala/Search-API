@@ -4,6 +4,28 @@
 
 ![IDE7](https://github.com/saiviswanathpadala/Search-API/blob/main/OUTPUT%20SNAPS/IDE7.jpg)
 
+## Sample cURL Commands
+This API allows users to search for suppliers based on specific criteria like location, nature of business, and manufacturing processes.
+
+## Endpoints
+
+### 1. Query Suppliers
+#### Endpoint: `/api/supplier/query`
+#### Method: `POST`
+
+Retrieve a list of suppliers that match the given criteria.
+
+**Example cURL Command:**
+
+```bash
+curl -X POST "http://localhost:8080/api/supplier/query" \
+-H "Content-Type: application/x-www-form-urlencoded" \
+-d "location=India" \
+-d "natureOfBusiness=small_scale" \
+-d "manufacturingProcesses=3d_printing" \
+-d "page=0" \
+-d "size=10"
+
 
 ## Project SnapShots
 
