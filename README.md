@@ -23,9 +23,7 @@ curl -X POST "http://localhost:8080/api/supplier/query" \
 -d "location=India" \
 -d "natureOfBusiness=small_scale" \
 -d "manufacturingProcesses=3d_printing" \
--d "page=0" \
--d "size=10"
-
+```
 
 ## Project SnapShots
 
